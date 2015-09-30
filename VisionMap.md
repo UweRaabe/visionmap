@@ -1,0 +1,3 @@
+VisionMap's developers are encouraged to work on side projects 30% of the time (it's like Google's 20% rule, but better!). Some of these projects are really useful to many people outside the company, and so we decided to contribute them to the community as [open source projects](http://code.google.com/p/visionmap/).
+
+[VisionMap](http://www.visionmap.com/) is a company in the field of aerial photography and [photogrammtery](http://en.wikipedia.org/wiki/Photogrammetry).
